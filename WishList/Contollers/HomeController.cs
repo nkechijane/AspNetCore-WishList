@@ -18,5 +18,4 @@ namespace WishList.Contollers
             return View("Error");
         }
     }
-
 }
